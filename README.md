@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am pursuing a Bachelor's degree in Mechatronics <br>Engineering and currently learning Machine Learning. <br><br>🌱 As a freelance web developer, I have experience in creating a wide range of projects - <br>from websites to robots!
+🔭 I am pursuing a Bachelor's degree in Mechatronics <br>Engineering and currently pursuing mastery in Computer Vision and AI/ML topics. <br><br>🌱 As a Full-stack Web developer and a Robotics Engineer, I have experience in creating a wide range of projects - <br>from websites to robots!
 
 
 ## 🌐 Socials:
