@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I have done a Bachelor's degree in Mechatronics Engineering and <be>currently giving services in the Computer Vision and AI/ML field. <br><br>🌱 As a Full-stack Web developer and a Robotics Engineer, I have experience in creating a wide range of projects - <br>from websites to robots!
+🔭 I have done a Bachelor's degree in Mechatronics Engineering and <be>currently giving services in the Computer Vision, AI/ML and Web Development field. <br><br>🌱 As Forward Deployed Engineer and a Robotics Engineer, I have experience in creating a wide range of projects - <br>from websites to robots, integrating AI models in both!
 
 
 ## 🌐 Socials:
